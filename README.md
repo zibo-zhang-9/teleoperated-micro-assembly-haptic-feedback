@@ -167,7 +167,7 @@ Micro-assembly tasks were performed to validate the system.
 
 ### Hysteresis identification
 
-![hysteresis](media/hysteresis_curve.png)
+![hysteresis](media/reference curve 1.png)
 
 ---
 
