@@ -59,6 +59,10 @@ Robotic Micro-Gripper (Slave)
 
 The operator manipulates the tele-tweezer, which controls the robotic micro-gripper in real time.
 
+Illustration of system architecture:
+![System Architecture](media/Control_loop_1.png)
+
+
 ---
 
 # Hardware Platform
