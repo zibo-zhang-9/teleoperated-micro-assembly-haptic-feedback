@@ -1,5 +1,6 @@
 # Teleoperated Micro-Assembly System with Haptic Feedback
 
+![Research](https://img.shields.io/badge/Research-Robotics-red)
 ![Field](https://img.shields.io/badge/Field-Cobotics-blue)
 ![Topic](https://img.shields.io/badge/Topic-Teleoperation-green)
 ![Application](https://img.shields.io/badge/Application-Micro_Assembly-orange)
