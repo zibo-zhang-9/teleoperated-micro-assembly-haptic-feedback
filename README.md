@@ -12,7 +12,7 @@ The work was conducted at the **Institute for Intelligent Systems and Robotics (
 
 Overview of the hardware platform:
 
-![Robot](media/microtweezer3.png)
+![Robot](media/overview_hardware_platform.png)
 
 ---
 
