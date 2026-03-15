@@ -159,7 +159,7 @@ Micro-assembly tasks were performed to validate the system.
 
 ### Hysteresis identification
 
-![hysteresis](media/reference curve 1.png)
+![hysteresis](media/reference_curve_1.png)
 
 ### With haptic feedback
 
