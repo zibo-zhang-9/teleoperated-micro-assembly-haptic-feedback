@@ -73,7 +73,7 @@ Features:
 
 The tele-tweezer allows intuitive control of the remote micro-gripper.
 
-![Master Device](media/master_device.jpg)
+![Master Device](media/teletweezer3.png)
 
 ---
 
@@ -88,7 +88,7 @@ Features:
 - precision positioning platform
 - optical observation system
 
-![Slave Device](media/slave_device.jpg)
+![Slave Device](media/microtweezer2.png)
 
 ---
 
