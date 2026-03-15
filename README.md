@@ -112,6 +112,8 @@ tele-tweezer opening/closing
 → micro-gripper actuation
 ```
 
+This enables intuitive remote manipulation of micro-scale objects by following the following steps:
+
 ```
 Operator
    ↓
@@ -123,8 +125,6 @@ Control Computer
    ↓
 Robotic Micro-Gripper (Slave)
 ```
-
-This enables intuitive remote manipulation of micro-scale objects.
 
 ---
 
