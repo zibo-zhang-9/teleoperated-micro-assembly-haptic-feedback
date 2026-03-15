@@ -174,6 +174,8 @@ Micro-assembly tasks were performed to validate the system.
 
 ![with feedback](media/haptic_feedback_1.png)
 
+### Demonstration video
+
 For the full experimental demonstration video, click the following link: https://youtu.be/xx
 
 ---
