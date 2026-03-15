@@ -43,25 +43,12 @@ The goal is to **assist operators in precision manipulation while preserving hum
 
 # System Architecture
 
-The teleoperation platform consists of four main components:
-
-```
-Operator
-   ↓
-Tele-tweezer (Master Interface)
-   ↓
-UDP Communication
-   ↓
-Control Computer
-   ↓
-Robotic Micro-Gripper (Slave)
-```
+The teleoperation platform consists of four main components: Tele-tweezer, ChronoLab (including micro-gripper, sensors, cameras...), Control computer, and OptiTrack
 
 The operator manipulates the tele-tweezer, which controls the robotic micro-gripper in real time.
 
 Illustration of system architecture:
 ![System Architecture](media/control_loop_1.png)
-
 
 ---
 
@@ -123,6 +110,18 @@ A real-time mapping was implemented between:
 ```
 tele-tweezer opening/closing
 → micro-gripper actuation
+```
+
+```
+Operator
+   ↓
+Tele-tweezer (Master Interface)
+   ↓
+UDP Communication
+   ↓
+Control Computer
+   ↓
+Robotic Micro-Gripper (Slave)
 ```
 
 This enables intuitive remote manipulation of micro-scale objects.
