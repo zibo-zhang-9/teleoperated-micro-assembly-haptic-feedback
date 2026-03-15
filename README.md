@@ -163,7 +163,7 @@ Micro-assembly tasks were performed to validate the system.
 
 ### With and Without haptic feedback
 
-![with feedback](media/with_feedback.jpg)
+![with feedback](media/haptic_feedback_1.jpg)
 
 ---
 
