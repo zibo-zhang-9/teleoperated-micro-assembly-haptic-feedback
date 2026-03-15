@@ -188,7 +188,7 @@ For the full experimental demonstration video, click the following link: https:/
 ## Communication
 
 - UDP socket communication
-- TCP/IP protocols
+- TCP/IP networking
 
 ## Embedded Systems
 
@@ -199,7 +199,7 @@ For the full experimental demonstration video, click the following link: https:/
 ## Software
 
 - Qt Creator
-- MATLAB (hysteresis modeling and data analysis)
+- MATLAB (system identification and data analysis)
 
 ## Sensors and Hardware
 
