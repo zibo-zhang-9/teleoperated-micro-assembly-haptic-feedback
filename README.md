@@ -157,6 +157,10 @@ The operator can therefore **feel contact events remotely**, preventing excessiv
 
 Micro-assembly tasks were performed to validate the system.
 
+### Hysteresis identification
+
+![hysteresis](media/reference curve 1.png)
+
 ### With haptic feedback
 
 ![with feedback](media/with_feedback.jpg)
@@ -164,10 +168,6 @@ Micro-assembly tasks were performed to validate the system.
 ### Without haptic feedback
 
 ![without feedback](media/without_feedback.jpg)
-
-### Hysteresis identification
-
-![hysteresis](media/reference curve 1.png)
 
 ---
 
