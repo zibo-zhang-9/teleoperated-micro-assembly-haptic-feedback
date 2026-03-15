@@ -10,6 +10,10 @@ The system enables an operator to manipulate **sub-millimeter components remotel
 
 The work was conducted at the **Institute for Intelligent Systems and Robotics (ISIR), Sorbonne University**, within the framework of the **COLAMIR project**.
 
+Overview of the hardware platform:
+
+![Robot](media/microtweezer3.png)
+
 ---
 
 # Project Highlights
