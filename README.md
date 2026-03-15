@@ -161,13 +161,9 @@ Micro-assembly tasks were performed to validate the system.
 
 ![hysteresis](media/reference_curve_1.png)
 
-### With haptic feedback
+### With and Without haptic feedback
 
 ![with feedback](media/with_feedback.jpg)
-
-### Without haptic feedback
-
-![without feedback](media/without_feedback.jpg)
 
 ---
 
