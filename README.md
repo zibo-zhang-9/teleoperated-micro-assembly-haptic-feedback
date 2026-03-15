@@ -43,7 +43,12 @@ The goal is to **assist operators in precision manipulation while preserving hum
 
 # System Architecture
 
-The teleoperation platform consists of four main components: Tele-tweezer, ChronoLab (including micro-gripper, sensors, cameras...), Control computer, and OptiTrack
+The teleoperation platform consists of four main subsystems:
+
+- **Tele-tweezer** (master device)
+- **ChronoLab micro-manipulation station** (slave device including micro-gripper, sensors and cameras)
+- **Control computer**
+- **OptiTrack motion tracking system**
 
 The operator manipulates the tele-tweezer, which controls the robotic micro-gripper in real time.
 
@@ -112,7 +117,7 @@ tele-tweezer opening/closing
 → micro-gripper actuation
 ```
 
-This enables intuitive remote manipulation of micro-scale objects by following the following steps:
+This enables intuitive remote manipulation of micro-scale objects through the following steps:
 
 ```
 Operator
