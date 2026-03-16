@@ -183,7 +183,7 @@ Micro-assembly tasks were performed to validate the system.
 
 ### Demonstration video
 
-For the full experimental demonstration video, click the following link: https://youtu.be/xx
+For the full experimental demonstration video, click the following link: https://youtu.be/DjOsX6Ir4xc
 
 ---
 
