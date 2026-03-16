@@ -114,8 +114,7 @@ Results:
 A real-time mapping was implemented between:
 
 ```
-tele-tweezer opening/closing
-→ micro-gripper actuation
+tele-tweezer opening/closing → actuation of micro-gripper (opening/closing) 
 ```
 
 This enables intuitive remote manipulation of micro-scale objects through the following steps:
