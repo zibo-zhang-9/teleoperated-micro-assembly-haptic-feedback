@@ -187,7 +187,7 @@ For the full experimental demonstration video, click the following link: https:/
 
 ## Experimental Demonstration Video
 
-[![Watch the video](https://img.youtube.com/vi/Dj0sX6Ir4xc/maxresdefault.jpg)](https://youtu.be/Dj0sX6Ir4xc)
+[![Watch the video](media/Video_title_page)](https://youtu.be/Dj0sX6Ir4xc)
 
 ---
 
