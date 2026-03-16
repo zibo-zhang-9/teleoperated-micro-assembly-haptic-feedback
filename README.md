@@ -122,7 +122,7 @@ This enables intuitive remote manipulation of micro-scale objects through the fo
 ```
 Operator
    ↓
-Tele-tweezer (Master Interface)
+Tele-tweezer (Master)
    ↓
 UDP Communication
    ↓
