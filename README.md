@@ -9,7 +9,7 @@ This project presents the design and implementation of a **human–machine inter
 
 The system enables an operator to manipulate **sub-millimeter components remotely** using a portable **tele-tweezer master device**, which controls a robotic **micro-gripper slave system**.
 
-The work was conducted from March 2020 to November 2020 at the **Institute for Intelligent Systems and Robotics (ISIR), Sorbonne University**, within the framework of the **COLAMIR project**.
+This work was conducted from March 2020 to November 2020 at the **Institute for Intelligent Systems and Robotics (ISIR), Sorbonne University**, within the framework of the **COLAMIR project**.
 
 Overview of the hardware platform: 
 
