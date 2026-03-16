@@ -256,9 +256,7 @@ Funded by:
 "A Handheld Master Device for 3D Remote Micro-manipulation",
 IEEE Conference, 2019.
 
-[2] Z. Zhang  
-Human–Machine Interface for Teleoperated Micro-Assembly  
-Master thesis, Sorbonne University, 2020.
+[2] Z. Zhang, Human–Machine Interface for Teleoperated Micro-Assembly, Master thesis, Sorbonne University, 2020.
 
 # Author
 
