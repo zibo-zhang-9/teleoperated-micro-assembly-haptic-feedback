@@ -62,7 +62,9 @@ Illustration of system architecture:
 
 ## Master Device – Tele-Tweezer
 
-A portable device designed to replicate the shape and functionality of traditional precision tweezers.
+The master interface is a **handheld haptic tele-tweezer**, originally developed at ISIR and presented in [1].
+
+The portable device designed to replicate the shape and functionality of traditional precision tweezers.
 
 Features:
 
@@ -81,6 +83,8 @@ The tele-tweezer allows intuitive control of the remote micro-gripper.
 ## Slave Device – Robotic Micro-Gripper
 
 The slave interface is a robotic micro-assembly station used to manipulate micro-components.
+
+This station is developed by Percipio Robotics and described in [1].
 
 Features:
 
@@ -245,6 +249,16 @@ Funded by:
 - Percipio Robotics
 
 ---
+
+# References
+
+[1] S. Sakr, T. Daunizeau, D. Reversat, S. Régnier, and S. Haliyo,
+"A Handheld Master Device for 3D Remote Micro-manipulation",
+IEEE Conference, 2019.
+
+[2] Z. Zhang  
+Human–Machine Interface for Teleoperated Micro-Assembly  
+Master thesis, Sorbonne University, 2020.
 
 # Author
 
