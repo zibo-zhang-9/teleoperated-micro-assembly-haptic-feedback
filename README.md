@@ -173,6 +173,10 @@ Micro-assembly tasks were performed to validate the system.
 
 ![with feedback](media/haptic_feedback_1.png)
 
+In the case of without haptic feedback, because there is no feedback, the operator can close the Tele-tweezer as it wish (shown as in the Figure (a)) even if the micro-gripper touches the object and can exercices eccessive forces leading to a potential damage of the micro-gripper.
+
+In the case of with haptic feedback, because there is feedback, the operator can not close the Tele-tweezer as it wish (shown as in the Figure (b)), the operator feels a contact forces when the midro-gripper touches the object.
+
 ### Demonstration video
 
 For the full experimental demonstration video, click the following link: https://youtu.be/xx
