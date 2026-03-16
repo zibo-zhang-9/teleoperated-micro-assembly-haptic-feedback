@@ -189,6 +189,13 @@ For the full experimental demonstration video, click the following link: https:/
 
 [![Watch the video](media/Video_title_page)](https://youtu.be/Dj0sX6Ir4xc)
 
+
+## Experimental Demonstration Video
+
+This video presents the experimental demonstration of the teleoperated micro-assembly system with haptic feedback.
+
+[![Watch the video](https://img.youtube.com/vi/Dj0sX6Ir4xc/0.jpg)](https://youtu.be/Dj0sX6Ir4xc)
+
 ---
 
 # Technologies Used
