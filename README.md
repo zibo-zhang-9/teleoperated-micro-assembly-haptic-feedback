@@ -185,6 +185,10 @@ Micro-assembly tasks were performed to validate the system.
 
 For the full experimental demonstration video, click the following link: https://youtu.be/DjOsX6Ir4xc
 
+## Experimental Demonstration Video
+
+[![Watch the video](https://img.youtube.com/vi/Dj0sX6Ir4xc/maxresdefault.jpg)](https://youtu.be/Dj0sX6Ir4xc)
+
 ---
 
 # Technologies Used
