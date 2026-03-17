@@ -175,30 +175,27 @@ Micro-assembly tasks were performed to validate the proposed **bilateral couplin
 
 ### Comparison: Without vs With Haptic Feedback
 
-(a) Without haptic feedback
-(b) With haptic feedback
-
-Dynamic demonstration (gif):
-
-(a)
+**Dynamic demonstration (gif):**
 
 ![with feedback](media/VID_20201026_195506.gif)
 
-(b)
+(a) Without haptic feedback
 
 ![with feedback](media/VID_20201026_195316.gif)
 
-Annotated comparison (figure):
+(b) With haptic feedback
+
+**Annotated comparison (figure):**
 
 ![with feedback](media/haptic_feedback_1.png)
 
-Explanation:
+**Explanation:**
 
 (a) Without haptic feedback, the operator does not receive any information about the contact between the micro-gripper and the object. As a result, the tele-tweezer can continue to close even after the micro-gripper touches the object, which may lead to excessive gripping forces and potential damage to the micro-gripper.
 
 (b) With haptic feedback, the operator receives a force feedback when the micro-gripper contacts the object. This feedback prevents further closing of the tele-tweezer and allows the operator to perceive the contact event, improving manipulation safety and control.
 
-Full demonstration video:
+**Full demonstration video:**
 
 https://youtu.be/DjOsX6Ir4xc
 
