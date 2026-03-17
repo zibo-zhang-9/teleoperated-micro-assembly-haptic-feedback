@@ -167,7 +167,7 @@ The operator can therefore **feel contact events remotely**, preventing excessiv
 
 # Experimental Demonstration
 
-Micro-assembly tasks were performed to validate the system.
+Micro-assembly tasks were performed to validate the proposed **bilateral coupling scheme**.
 
 ### Hysteresis identification
 
