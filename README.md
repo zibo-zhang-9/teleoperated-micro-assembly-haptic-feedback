@@ -193,7 +193,9 @@ Micro-assembly tasks were performed to validate the proposed **bilateral couplin
 
 (a) Without haptic feedback, the operator does not receive any information about the contact between the micro-gripper and the object. As a result, the tele-tweezer can continue to close even after the micro-gripper touches the object, which may lead to excessive gripping forces and potential damage to the micro-gripper.
 
-(b) With haptic feedback, the operator receives a force feedback when the micro-gripper contacts the object. This feedback prevents further closing of the tele-tweezer and allows the operator to perceive the contact event, improving manipulation safety and control.
+(b) With haptic feedback, the operator receives a force feedback when the micro-gripper contacts the object. This feedback prevents further closing of the tele-tweezer and allows the operator to perceive the contact.
+
+These results demonstrate that haptic feedback effectively prevents excessive gripping forces, and significantly improves manipulation safety and control in teleoperated micro-assembly tasks.
 
 **Full demonstration video:**
 
