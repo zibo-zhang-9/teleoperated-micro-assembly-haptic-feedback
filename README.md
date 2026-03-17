@@ -175,7 +175,21 @@ Micro-assembly tasks were performed to validate the proposed **bilateral couplin
 
 ### With and without haptic feedback
 
+Gif: 
+
+(a) Without haptic feedback
+
+![with feedback](media/VID_20201026_195506.gif)
+
+(b) With haptic feedback
+
+![with feedback](media/VID_20201026_195316.gif)
+
+Figure:
+
 ![with feedback](media/haptic_feedback_1.png)
+
+In detail,
 
 (a) Without haptic feedback, the operator does not receive any information about the contact between the micro-gripper and the object. As a result, the tele-tweezer can continue to close even after the micro-gripper touches the object, which may lead to excessive gripping forces and potential damage to the micro-gripper.
 
