@@ -233,13 +233,7 @@ Potential applications include:
 
 # Project Context
 
-This research was conducted at:
-
-**Institute for Intelligent Systems and Robotics (ISIR)**  
-Sorbonne University  
-Paris, France
-
-within the project:
+This research was conducted within the project:
 
 **COLAMIR – Agile Micro-Collaborative Robots for Ultra-Precision Assembly**
 
