@@ -163,6 +163,10 @@ When the micro-gripper contacts an object:
 
 The operator can therefore **feel contact events remotely**, preventing excessive gripping forces.
 
+A control loop was implemented based on the following steps:
+
+![Control Loop](media/control_loop.png)
+
 ---
 
 # Experimental Demonstration
