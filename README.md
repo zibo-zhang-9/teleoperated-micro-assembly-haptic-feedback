@@ -165,7 +165,7 @@ The operator can therefore **feel contact events remotely**, preventing excessiv
 
 A control loop was implemented based on the following steps:
 
-![Control Loop](media/control_loop.png)
+![Control Loop](media/control_scheme_6.png)
 
 ---
 
