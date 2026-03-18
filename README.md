@@ -153,7 +153,7 @@ The model enables **force correction and improved gripping accuracy**.
 
 ## Bilateral Teleoperation with Haptic Feedback
 
-A **bilateral coupling scheme** was implemented.
+A **bilateral coupling scheme** was implemented to enable real-time interaction between the master (tele-tweezer) and the slave (micro-gripper)..
 
 When the micro-gripper contacts an object:
 
@@ -163,7 +163,7 @@ When the micro-gripper contacts an object:
 
 The operator can therefore **feel contact events remotely**, preventing excessive gripping forces.
 
-A control loop was implemented based on the following steps:
+The control loop operates as shown in the following figure:
 
 ![Control Loop](media/control_scheme_6.png)
 
