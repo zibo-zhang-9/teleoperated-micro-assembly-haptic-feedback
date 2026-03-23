@@ -297,3 +297,28 @@ IEEE Conference, 2019.
 Zibo Zhang  
 PhD in Robotics  
 IMT Atlantique / Université Grenoble Alpes
+
+
+## Appendix: Technical Implementation
+
+- Embedded Communication & Hardware Integration
+
+![Hardware Setup](media/pic32_setup.png)
+
+The embedded system is built around a PIC32 microcontroller, interfaced with:
+
+- Ethernet (UDP communication with control PC)
+- USB (debugging via ICD3)
+- Micro-gripper actuation system
+
+This setup enables real-time communication between the control interface and the micro-assembly station.
+
+- UDP Communication (Qt & Embedded)
+
+A custom UDP-based communication protocol was implemented to replace the original TCP architecture, improving control frequency and reducing latency.
+
+- Qt (C++) used as client interface
+- Embedded UDP server implemented on PIC32
+- Real-time bidirectional data exchange (≈220 Hz)
+
+This architecture enables low-latency teleoperation and haptic feedback.
