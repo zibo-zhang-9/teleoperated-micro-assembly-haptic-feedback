@@ -284,9 +284,9 @@ Funded by:
 
 ---
 
-## Appendix: Technical Implementation
+### Appendix: Technical Implementation
 
-- Embedded Communication & Hardware Integration
+## Embedded Communication & Hardware Integration
 
 ![Hardware Setup](media/pic32_setup.jpg)
 
@@ -298,7 +298,7 @@ The embedded system is built around a PIC32 microcontroller, interfaced with:
 
 This setup enables real-time communication between the control interface and the micro-assembly station.
 
-- UDP Communication (Qt & Embedded)
+## UDP Communication (Qt & Embedded)
 
 ![UDP Communication](media/UDP_Communication_Qt_Embedded.png)
 
