@@ -284,21 +284,6 @@ Funded by:
 
 ---
 
-# References
-
-[1] S. Sakr, T. Daunizeau, D. Reversat, S. Régnier, and S. Haliyo,
-"A Handheld Master Device for 3D Remote Micro-manipulation",
-IEEE Conference, 2019.
-
-[2] Z. Zhang, Human–Machine Interface for Teleoperated Micro-Assembly, Master thesis, Sorbonne University, 2020.
-
-# Author
-
-Zibo Zhang  
-PhD in Robotics  
-IMT Atlantique / Université Grenoble Alpes
-
-
 ## Appendix: Technical Implementation
 
 - Embedded Communication & Hardware Integration
@@ -318,3 +303,19 @@ This setup enables real-time communication between the control interface and the
 ![UDP Communication](media/UDP_Communication_Qt_Embedded.png)
 
 A custom UDP-based communication protocol was implemented to replace the original TCP architecture, improving control frequency and reducing latency. Qt (C++) used as client interface. Embedded UDP server implemented on PIC32. Real-time bidirectional data exchange (≈220 Hz)
+
+---
+
+# References
+
+[1] S. Sakr, T. Daunizeau, D. Reversat, S. Régnier, and S. Haliyo,
+"A Handheld Master Device for 3D Remote Micro-manipulation",
+IEEE Conference, 2019.
+
+[2] Z. Zhang, Human–Machine Interface for Teleoperated Micro-Assembly, Master thesis, Sorbonne University, 2020.
+
+# Author
+
+Zibo Zhang  
+PhD in Robotics  
+IMT Atlantique / Université Grenoble Alpes
