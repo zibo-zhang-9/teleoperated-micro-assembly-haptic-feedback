@@ -284,7 +284,7 @@ Funded by:
 
 ---
 
-### Appendix: Technical Implementation Details 
+# Appendix: Technical Implementation Details 
 
 ## Embedded Communication & Hardware Integration
 
