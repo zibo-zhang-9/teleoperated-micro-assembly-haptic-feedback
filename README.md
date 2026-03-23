@@ -185,6 +185,8 @@ The GUI is organized into several functional modules:
 
 **Coupling & Control Panel (Bottom-center)**: Core module for bilateral teleoperation; coupling activation between tele-tweezer and micro-gripper; control of the **haptic feedback loop** (asservissement in French);
 
+This module directly implements the bilateral coupling strategy described in the previous section, enabling both real-time master–slave synchronization and force feedback rendering to the operator.
+
 ---
 
 # Experimental Demonstration
