@@ -284,7 +284,7 @@ Funded by:
 
 ---
 
-### Appendix: Technical Implementation
+### Appendix: Technical Implementation Details 
 
 ## Embedded Communication & Hardware Integration
 
@@ -296,13 +296,14 @@ The embedded system is built around a PIC32 microcontroller, interfaced with:
 - USB (debugging via ICD3)
 - Micro-gripper actuation system
 
-This setup enables real-time communication between the control interface and the micro-assembly station.
-
 ## UDP Communication (Qt & Embedded)
 
 ![UDP Communication](media/UDP_Communication_Qt_Embedded.png)
 
-A custom UDP-based communication protocol was implemented to replace the original TCP architecture, improving control frequency and reducing latency. Qt (C++) used as client interface. Embedded UDP server implemented on PIC32. Real-time bidirectional data exchange (≈220 Hz)
+A custom UDP-based communication protocol was implemented to replace the original TCP architecture, improving control frequency and reducing latency. 
+- Qt (C++) used as client interface.
+- Embedded UDP server implemented on PIC32.
+- Real-time bidirectional data exchange (≈220 Hz)
 
 ---
 
