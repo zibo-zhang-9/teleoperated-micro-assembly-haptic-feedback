@@ -167,6 +167,12 @@ A control loop was implemented and operates as shown in the following figure:
 
 ![Control Loop](media/control_scheme_6.png)
 
+## Human–Machine Interface (HMI) Implementation
+
+To enable real-time interaction between all subsystems, a custom graphical user interface (GUI) was developed using Qt (C++).
+
+![Human–Machine Interface](media/Human–Machine_Interface.png)
+
 ---
 
 # Experimental Demonstration
