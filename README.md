@@ -315,10 +315,6 @@ This setup enables real-time communication between the control interface and the
 
 - UDP Communication (Qt & Embedded)
 
-A custom UDP-based communication protocol was implemented to replace the original TCP architecture, improving control frequency and reducing latency.
+![UDP Communication](media/UDP_Communication_Qt_Embedded.png)
 
-- Qt (C++) used as client interface
-- Embedded UDP server implemented on PIC32
-- Real-time bidirectional data exchange (≈220 Hz)
-
-This architecture enables low-latency teleoperation and haptic feedback.
+A custom UDP-based communication protocol was implemented to replace the original TCP architecture, improving control frequency and reducing latency. Qt (C++) used as client interface. Embedded UDP server implemented on PIC32. Real-time bidirectional data exchange (≈220 Hz)
