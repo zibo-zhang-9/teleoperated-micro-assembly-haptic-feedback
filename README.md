@@ -173,6 +173,18 @@ To enable real-time interaction between all subsystems, a custom graphical user 
 
 ![Human–Machine Interface](media/Human–Machine_Interface.png)
 
+The GUI is organized into several functional modules:
+
+**ChronoLab Control Panel (Top-left)**: Connection to the ChronoLab micro-manipulation station; Real-time display of positioners state and sensor values (force, position, etc.).
+
+**OptiTrack Tracking Panel (Top-center)**: Connection to the OptiTrack motion tracking system; Tracking of the 6-DoF motion of the master device in real time.
+
+**Tele-Tweezer Control Panel (Top-right)**: USB communication via COM port; Displays embedded sensor data from the tele-tweezer...
+
+**Debug & Manual Control Panel (Bottom-left)**: Provides tools for debugging communication issues, manual control of position and speed, etc...
+
+**Coupling & Control Panel (Bottom-center)**: Core module for bilateral teleoperation; coupling activation between tele-tweezer and micro-gripper; control of the **haptic feedback loop** (asservissement in French);
+
 ---
 
 # Experimental Demonstration
