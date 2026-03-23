@@ -303,7 +303,7 @@ IMT Atlantique / Université Grenoble Alpes
 
 - Embedded Communication & Hardware Integration
 
-![Hardware Setup](media/pic32_setup.png)
+![Hardware Setup](media/pic32_setup.jpg)
 
 The embedded system is built around a PIC32 microcontroller, interfaced with:
 
