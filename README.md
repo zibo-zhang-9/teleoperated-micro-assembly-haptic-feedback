@@ -270,7 +270,7 @@ A bilateral control architecture was implemented to establish a closed-loop inte
 
 Furthermore, the identification and modeling of piezoelectric actuator hysteresis enabled force compensation that improved control accuracy and system stability.
 
-The proposed system demonstrates that integrating **real-time communication, multi-modal sensing, and human-in-the-loop control** is essential for achieving reliable performance in micro-manipulation tasks.
+Experimental results demonstrate that integrating **real-time communication, multi-modal sensing, and human-in-the-loop control** is essential for achieving reliable performance in micro-manipulation tasks.
 
 ---
 
