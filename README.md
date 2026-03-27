@@ -260,6 +260,21 @@ https://youtu.be/DjOsX6Ir4xc
 
 ---
 
+# Conclusion
+
+This project presents a complete teleoperation framework for micro-assembly, combining embedded systems, real-time communication, and bilateral haptic control.
+
+The transition from TCP to UDP communication significantly improved system responsiveness, enabling high-frequency control loops required for precise manipulation at the micro-scale.
+
+A bilateral control architecture was implemented to establish a closed-loop interaction between the operator and the remote environment. This approach allows real-time transmission of force information, enhancing operator perception and reducing the risk of excessive interaction forces.
+
+Furthermore, the identification and modeling of piezoelectric actuator hysteresis enabled force compensation that improved control accuracy and system stability.
+
+The proposed system demonstrates that integrating **real-time communication, multi-modal sensing, and human-in-the-loop control** is essential for achieving reliable performance in micro-manipulation tasks.
+
+---
+
+
 # Applications
 
 Potential applications include:
