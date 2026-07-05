@@ -1,14 +1,3 @@
-/** \file manageGripper.h
- * Header file containing all the function prototypes needed to control the PiTweez fingers.
- * \n The 4 tensions of the 2 fingers are controlled by 4 DAC of a single Analog Device module, the present program communicates with this module via SPI1.
- * \n <b>Source file</b>: \n @ref manageGripper.c
- * \n <b>Author:</b> \n Benoit Bauin
- * \n <b>Date:</b> \n 23 mai 2013, 15:59
- * \n <b>Usefull links:</b>
- * \n Analog Device DAC datasheet http://www.analog.com/static/imported-files/data_sheets/AD5724R_5734R_5754R.pdf
- * \n PIC32 SPI datasheet http://ww1.microchip.com/downloads/en/DeviceDoc/61106G.pdf
- */
-
 #include <plib.h>
 
 #ifndef MANAGEGRIPPER_H
