@@ -1,12 +1,6 @@
 /** \file manageStack.h
  * Header file containing all the function prototypes needed to control the PiTweez piezo electrical Stack.
  * \n The tension of the stack is controlled by a PWM (OC3), amplified and lowpass filtered.
- * \n <b>Source file</b>: \n @ref manageStack.c
- * \n <b>Author:</b> \n Benoit Bauin
- * \n <b>Date:</b> \n 23 mai 2013, 15:07
- * \n <b>Usefull links:</b>
- * \n amplifier/lowpass datasheet :   http://www.cedrat-technologies.com/fileadmin/user_upload/cedrat_groupe/Mechatronic_products/User_s_manual/Inst_Man_CA-u10_v3.3.2.pdf
- * \n Piezo Stack datasheet : http://www.cedrat-technologies.com/fileadmin/user_upload/cedrat_groupe/Mechatronic_products/Piezo_actuators_electronics/APAs/APA30uXS_GB_v3.3.pdf
  */
 
 #include <plib.h>
