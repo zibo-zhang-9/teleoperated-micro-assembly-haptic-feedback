@@ -3,8 +3,6 @@
  * \n AN0, AN1, AN2 and AN3 are used for AD conversion.
  * \n AN0 and AN1 are first both converted, then AN2 and AN3, using the multiplexer A for AN0/AN2 and B for AN1/AN3
  * \n The resultant values are stored in a static array accessible from external files via getSensorsValue( int i );
- * \n <b>Author:</b> \n Benoit Bauin
- * \n <b>Date:</b> \n july 30, 2013, 15:59
  */
 
 #ifndef MANAGEMAGNETSENSORS_H
