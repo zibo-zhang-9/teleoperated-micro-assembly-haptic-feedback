@@ -1,8 +1,5 @@
 /** \file server.h
  * Header file containing all the function prototypes needed to deal with TCP buffers.
- * \n <b>Source file</b>: \n @ref server.c
- * \n <b>Author:</b> \n Florent Perrocheau
- * \n <b>Date:</b> \n 12 mars 2013, 12:13
  */
 
 #ifndef SERVER_H
