@@ -1,11 +1,3 @@
-/** \file PWMbyButtons.h
- * Header file containing all the function prototypes needed to control WPM modules OC2, OC3 and OC4 via on board buttons.
- * \n This module has been done for easy tests on the PiTweez electronic
- * \n <b>Source file</b>: \n @ref PWMbyButtons.c
- * \n <b>Author:</b> \n Benoit Bauin
- * \n <b>Date:</b> \n 27 juin 2013, 18:31
- */
-
 #ifndef PWMBYBUTTONS_H
 #define	PWMBYBUTTONS_H
 
