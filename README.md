@@ -259,9 +259,9 @@ https://youtu.be/DjOsX6Ir4xc
 - OptiTrack motion tracking
 
 ## Repository Structure
-- 📁 **`Host_PC_Qt_App/`**: C++ source code for the Windows graphical host application (Multithreading, UDP/Serial communication, UI).
-- 📁 **`MCU_PIC32_Firmware/`**: Bare-metal C firmware for the PIC32 embedded controller (Hardware timers, DAC SPI drivers, TCP/IP stack).
-- 📁 **`media/`**: Images, architecture diagrams, and demonstration GIFs used in this README.
+- **`Host_PC_Qt_App/`**: C++ source code for the Windows graphical host application (Multithreading, UDP/Serial communication, UI).
+- **`MCU_PIC32_Firmware/`**: Bare-metal C firmware for the PIC32 embedded controller (Hardware timers, DAC SPI drivers, TCP/IP stack).
+- **`media/`**: Images, architecture diagrams, and demonstration GIFs used in this README.
 
 ---
 
