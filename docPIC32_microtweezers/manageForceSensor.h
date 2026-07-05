@@ -1,10 +1,3 @@
-/* 
- * File:   manageForceSensor.h
- * Author: Bilal.Komati
- *
- * Created on 10 février 2015, 11:40
- */
-
 #ifndef MANAGEFORCESENSOR_H
 #define	MANAGEFORCESENSOR_H
 
