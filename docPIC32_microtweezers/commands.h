@@ -1,10 +1,3 @@
-/* 
- * File:   commands.h
- * Author: Benoit Bauin
- *
- * Created on 18 avril 2013, 11:19
- */
-
 #ifndef COMMANDS_H
 #define	COMMANDS_H
 
