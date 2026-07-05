@@ -1,12 +1,3 @@
-/** \file manageHeatResistors.h
- *
- * \n Header file containing all the function prototypes needed to control the PiTweez heating resistors.
- * \n It uses OC2 and OC4 PWM modules for LEFT and RIGHT resistors, respectively.
- * \n <b>Author:</b> \n Benoit Bauin
- * \n <b>Date:</b> \n 30 juillet 2013, 15:19
- */
-
-
 #ifndef MANAGEHEATRESISTORS_H
 #define	MANAGEHEATRESISTORS_H
 
